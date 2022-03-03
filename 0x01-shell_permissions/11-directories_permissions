@@ -1,2 +1,2 @@
 #!/bin/bash
-Chmod -R o+x
+Chmod u+X*
