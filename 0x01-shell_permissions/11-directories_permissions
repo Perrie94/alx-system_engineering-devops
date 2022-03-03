@@ -1,2 +1,2 @@
 #!/bin/bash
-Chmod a+x
+sudo find . chmod a+x
