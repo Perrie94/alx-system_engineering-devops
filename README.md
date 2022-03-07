@@ -1,1 +1,1 @@
-display last lines
+last lines
