@@ -1,2 +1,2 @@
 #!/bin/bash
-13: printf "%.2f" $NUM | sort
+13: printf "%0.2f\n" $NUM
